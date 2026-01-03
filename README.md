@@ -22,9 +22,6 @@ This project is useful because:
 
 ## How to Get Started
 
-### Demo Video
-(Paste 3-minute demo video link here)
-
 ### Live Demo (MVP)
 https://muskan1334.github.io/Tomato-Leaf-Doctor/
 
@@ -34,7 +31,7 @@ https://muskan1334.github.io/Tomato-Leaf-Doctor/
 3. Wait for the AI model to analyze the image
 4. View the predicted disease class and confidence score
 
-## How to Run the Project Locally
+### How to Run the Project Locally
 1. Clone or download this repository
 2. Open the project folder in VS Code
 3. Use the **Live Server** extension to open `index.html`
