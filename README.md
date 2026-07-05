@@ -58,4 +58,4 @@ If you face issues or have suggestions:
 **Team Name:** HallTech  
 **Team Leader:** Muskan Burnwal
 
-This project was developed as part of an academic initiative to demonstrate the practical use of Google AI tools for solving real-world agricultural problems.
+This project was developed as part of an academic initiative to demonstrate the practical use of Google AI tools for solving real-world agricultural problems
